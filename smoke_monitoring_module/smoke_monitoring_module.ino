@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "Mime_Hotspot";
-const char* password = "xuea3584";
+const char* ssid = "";
+const char* password = "";
 
 HTTPClient http;
 String payload;
