@@ -54,7 +54,7 @@ The module collects data on carbon monoxide level in the air, and sends that dat
 - Breadboard 
 - Set of wires
 
-Source code of the module's microcontroller is located and presented in related folder (/smoke_monitoring_module), and its photo is presented below.
+Source code of the module's microcontroller is located and presented in folder [/smoke_monitoring_module](https://github.com/lovelmimica/SmarthomeSystemPrototype/blob/main/smoke_monitoring_module/smoke_monitoring_module.ino), and its photo is presented below.
 
 ![image](https://user-images.githubusercontent.com/26325720/132256552-4d288928-11a3-4970-8196-42eaddbd1149.png)
 
@@ -65,7 +65,7 @@ The module monitors the presence of movement in the monitored room, which indica
 - Breadboard
 - Set of wires
 
-Source code of the module's microcontroller is located and presented in related folder (/movement_monitoring_module), and its photo is presented below. 
+Source code of the module's microcontroller is located and presented in folder [/movement_monitoring_module](https://github.com/lovelmimica/SmarthomeSystemPrototype/blob/main/movement_monitoring_module/movement_monitoring_module.ino), and its photo is presented below. 
 
 ![image](https://user-images.githubusercontent.com/26325720/132256518-51073019-cd0b-45e6-8807-afcd266c2f09.png)
 
@@ -80,6 +80,6 @@ The module encapsulates the system's actuators (smoke alarm and bulb light submo
 - Breadboard
 - Set of wires
 
-Source code of the module's microcontroller is located and presented in related folder (/actuator_management_module), and its photo is presented below.
+Source code of the module's microcontroller is located and presented in folder [/actuator_management_module](https://github.com/lovelmimica/SmarthomeSystemPrototype/blob/main/actuator_management_module/actuator_management_module.ino), and its photo is presented below.
 
 ![image](https://user-images.githubusercontent.com/26325720/132256471-6a2199a1-cd3f-4e3f-b6c2-b816975126f9.png)
