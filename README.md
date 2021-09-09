@@ -1,6 +1,8 @@
 # Smarthome System Prototype
 
-Smarthome System Prototype is simple Internet of Things system developed for purpose of learning associated technologies. It has features of (1) carbon monoxide level monitoring and (2) smart room light management, which are implemented trough four modules: 
+Created for my Master's thesis, "Internet of Things: The Next Generation". Developed in Arduino ecosystem, and has features of (1) carbon monoxide detection and (2) smart room light management. 
+
+Features are implemented trough four modules: 
 - System Management Module  
 - Smoke Monitoring Module  
 - Movement Monitoring Module  
